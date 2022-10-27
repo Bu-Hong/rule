@@ -1,5 +1,5 @@
 #csgo进程
-PROCESS-NAME,csgo
+PROCESS-NAME,csgo.
 
 #csgo服务器IP段
 IP-CIDR,1.165.84.0/24,no-resolve
